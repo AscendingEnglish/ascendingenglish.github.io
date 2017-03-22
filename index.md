@@ -2,14 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # [](#why)Watch vlogs to learn English
 
 It's more funny and useful to learn English by watching blogs, firstly you learn words from the area that you are interested in. Secondly you can gain new knowledge that you need. At last it's more funny and you can do it whenever you want.
